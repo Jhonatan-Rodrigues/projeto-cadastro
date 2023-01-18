@@ -59,7 +59,7 @@ import javax.swing.*;
                 }
 
                 opcao = JOptionPane.showInputDialog(null,
-                        "Opção invalida! Digite 1 para cadastrar, "
+                        "Opção invalida: Digite 1 para cadastrar, "
                                 + "2 para Consultar, 3 para excluir, 4 para alterar ou 5 para sair",
                         "Cadastro", JOptionPane.INFORMATION_MESSAGE);
 
